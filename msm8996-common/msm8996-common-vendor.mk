@@ -525,7 +525,23 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8996-common/proprietary/vendor/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so \
     vendor/lge/msm8996-common/proprietary/vendor/lib64/vendor.qti.imsrtpservice@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.imsrtpservice@1.0_vendor.so \
     vendor/lge/msm8996-common/proprietary/vendor/lib64/vendor.qti.voiceprint@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.voiceprint@1.0.so \
-    vendor/lge/msm8996-common/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db
+    vendor/lge/msm8996-common/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile0.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile1.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile1.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile2.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile2.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile3.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile3.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile4.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile4.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile5.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile5.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile6.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile6.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile200.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile200.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile210.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile210.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile250.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile250.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile251.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile251.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile252.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile252.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile550.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile550.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile551.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile551.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile552.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile552.conf \
+    vendor/lge/msm8996-common/proprietary/vendor/etc/perf-profile553.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile553.conf \
 
 PRODUCT_PACKAGES += \
     com.quicinc.cne.api@1.0 \
